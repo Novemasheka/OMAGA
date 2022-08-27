@@ -1,0 +1,15 @@
+#menu{
+	background-color: white;
+	width: 97,5%;
+}
+
+#judul{
+	 background-color: black;
+	 color: white;
+	 width: 50%;
+}
+.in{cursor: pointer}
+.un{cursor: pointer}
+.en{cursor: pointer}
+.an{cursor: pointer}
+#body{background-color: limegreen;}
